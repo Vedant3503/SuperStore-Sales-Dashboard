@@ -3,7 +3,7 @@
 ## 🎯 Task 2: Data Visualization and Storytelling
 
 ### 📁 Dataset Used
-- **Dataset Name**: Superstore Sales Dataset (`SuperStore_Sales_Dataset.csv`)
+- **Dataset Name**: SuperStore Sales Dashboard Dataset (`SuperStore_Sales_Dashboard_Dataset.csv`)
 - **Source**: Kaggle / Intern-provided dataset
 - **Tool Used**: Microsoft Power BI Desktop
 
@@ -44,8 +44,8 @@ To analyze sales performance, profitability, and customer segments using visual 
 
 ## 📤 Deliverables
 
-- `SuperStore_Sales_Dataset.csv` – Clean dataset used in Power BI
-- `sales.pdf` – Exported PDF of the dashboard
+- `SuperStore_Sales_Dashboard_Dataset.csv` – Dataset used in Power BI
+- `SuperStore_Sales_Dashboard.pdf` – Exported PDF of the dashboard
 - `README.md` – Summary and explanation of the project
 
 ---
